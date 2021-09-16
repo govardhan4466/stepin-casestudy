@@ -1,4 +1,4 @@
-PROJ_NAME = Casestudy
+PROJ_NAME = stepin-seat-management-system-and-temeperature-management-system
 
 BUILD_DIR = Build
 
