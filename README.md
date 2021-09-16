@@ -1,4 +1,4 @@
-[requirements (1)-converted.pdf](https://github.com/govardhan4466/stepin-seat-management-system-and-temeperature-management-system/files/7180304/requirements.1.-converted.pdf)
+
 
 # stepin-casestudy
 ## codacy Badge
