@@ -25,7 +25,9 @@
    .We can change the requirements of dectecting temperature by replacing with the air conditioners.
                 
    ## THREATS:  
-   .it is not suitable in high temperature
+   .it is not suitable in high temperature.
+   ![swot analysis](https://user-images.githubusercontent.com/89760551/133732300-d22d64fb-dac6-4ce0-85c1-78b67f535e27.png)
+
                 
    ## 4W'S AND 1'H :
    
