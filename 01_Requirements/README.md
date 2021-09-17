@@ -42,5 +42,27 @@
             
    ## HOW:
    It can operated by manually by person in car.
+    
+    # REQUIEMENTS:
+  ## HIGH LEVEL REQUIREMENTS:
+  | **Requirements** | **Description** | 
+  |-----|-----|
+  |HLR_1 | Temperature Sensor | 
+  |HLR_2 |	Switches |
+  |HLR_3 | Heat Generation |
+  |HLR_4 | Microcontroller |
+  |HLR_5 | Software used |
+  |HLR_6 | Display |
+  ## LOW LEVEL REQUIREMENTS:
+  | **Requirements** | **Description** |
+  |-----|-----|
+  | LLR_1 |	Thermoelectric module |
+  | LLR_2 |	Push Button |
+  | LLR_3 |	ADC with PWM-fast |
+  | LLR_4	| LM35 and ADC |
+  | LLR_5 |	ATmega328 |
+  | LLR_6	| Code Blocks with AVR GCC compiler |
+  | LLR_7	| SimulIDE LCD and LED |
+
    
                  
